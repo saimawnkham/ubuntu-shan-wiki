@@ -22,13 +22,12 @@ git - ၽိုၼ်ၸုင် ဢၼ်သၢင်းလၢင်းသေ�
 လွင်ႈမူၼ်ႉမႄး
 ------------
 
-[git တွၼ်ႈတႃႇ OSX
-Download](http://code.google.com/p/git-osx-installer/downloads/list?can=3)
+[git download တွၼ်ႈတႃႇ OSX
+](http://code.google.com/p/git-osx-installer/downloads/list?can=3)
 
-[တွၼ်ႈတႃႇ Windows  git Download](http://msysgit.github.io/)
+[git download တွၼ်ႈတႃႇ Windows ](http://msysgit.github.io/)
 
-[တွၼ်ႈတႃႇ Linux  git
-Download](http://book.git-scm.com/2_installing_git.html)
+[git download တွၼ်ႈတႃႇ Linux ](http://book.git-scm.com/2_installing_git.html)
 
 ၵေႃႇသၢင်ႈ repository ဢၼ်မႂ်ႇမႂ်ႇ
 ---------------------------
