@@ -7,7 +7,7 @@ git - ၽိုၼ်ၸုင် ဢၼ်သၢင်းလၢင်းသေ�
 [Tweet](https://twitter.com/share)
 
 ၵေႃႈတႅမ်ႈၽိင်ႈတိုၼ်း [Roger Dudler](http://www.twitter.com/rogerdudler) (ၵေႃႉပိၼ်ႇၽႃႇသႃႇမၢၼ်ႈ
-[saturngod](http://www.twitter.com/saturngod) (ၵေႃႉပိၼ်ႇၽႃႇသႃႇတႆး [ၸၢႆးမွၼ်းၶမ်း](https://www.facebook.com/jaimawnkham)) 
+[saturngod](http://www.twitter.com/saturngod)) (ၵေႃႉပိၼ်ႇၽႃႇသႃႇတႆး [ၸၢႆးမွၼ်းၶမ်း](https://www.facebook.com/jaimawnkham)) 
 
 ငိၼ်းၸူမ်းၶွပ်ႈၸႂ်ထိုင် [@tfnico](http://www.twitter.com/tfnico),
 [@fhd](http://www.twitter.com/fhd) လႄႈ
