@@ -75,7 +75,8 @@ Alternatively you can select the 'Actions' menu, then 'Burn image'.
 1. Insert a blank CD into your burner. A "CD/DVD Creator" or "Choose Disc Type" window might pop up. Close this, as we will not be using it.![ubuntu_blankcd_dialog.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_blankcd_dialog.png)
  
 2. Browse to the downloaded ISO image in the file browser.
-3. Right click on the ISO image file and choose "Write to Disc". ![ubuntu_rightclick_cd.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_rightclick_cd.png)
+3. Right click on the ISO image file and choose "Write to Disc". 
+![ubuntu_rightclick_cd.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_rightclick_cd.png)
 4. Where it says "Select a disc to write to", select the blank CD. ![ubuntu_imageburn.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_imageburn.png)
 5. If you want, click "Properties" and select the burning speed. Lower speeds offer greater reliability, but will take longer to write. ![ubuntu_imageburn_properties.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_imageburn_properties.png)
 6. Start the burning process.
