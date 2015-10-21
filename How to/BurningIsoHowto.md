@@ -23,4 +23,4 @@ Inexpensive "write once" DVD-Rs are a good choice for burning ISO images.
 1. Right-click on an ISO image and choose “Burn disc image”.
 
 
-[Window7_right.jpg](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=windows7_right.jpg)
+![Window7_right.jpg](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=windows7_right.jpg)
