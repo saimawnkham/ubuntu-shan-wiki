@@ -1,99 +1,102 @@
 ##လွၵ်းလၢႆး ဢဝ် ISO သႂ်ႇၶဝ်ႈၼႂ်းၶႅပ်း 
 
-###Downloading an Ubuntu ISO
+###လူတ်ႇလူင်းဢဝ် ၾၢႆႇ ISO တႃႇ ဢူးပုၼ်းတု Ubuntu
 
-Ubuntu is distributed over the Internet as DVD image (.iso) files. The GettingUbuntu page has links to the ISO image files, as well as other methods of getting Ubuntu.
+Ubuntu ၼႆႉ မၼ်းဢဝ်ၾၢႆႇ (.iso) DDVD image သေၵေႃႈ ပိုၼ်​ၽႄႈၵႃႈတီႈၼိူဝ် ဢိၼ်ႇတႃႇၼႅတ်ႉ။ ဢၼ်ပဵၼ် ၼႃႈလိၵ်ႈ GettingUbuntu ၼႆႉၵေႃႈ မၼ်းမီး ႁဵင်းၵွင်ႉ တွၼ်ႈတႃႇဢဝ်ၾၢႆႇ ISO image သေဢမ်ႇၵႃႈ မီးပႃး လွၵ်းလၢႆးတႃႇတေဢဝ် Ubuntu ထႅင်ႈတၢင်ႇၸိူဝ်ႉတၢင်ႇလၢႆးသေၶႃႈဢေႃႈ။
 
-###Burning the ISO on to a DVD
+###ဢဝ်ၾၢႆႇ ISO သႂ်ႇၶဝ်ႈၼႂ်းၶႅပ်း DVD
 
-Unlike a regular data file, the ISO file cannot be simply dragged and dropped or copied directly onto a disc. It needs to be burned in a specific way that expands/extracts the image so you have usable files on your disc. 
+မၼ်းၵေႃႈတေႃႈ ဢမ်ႇမၼ်ၵၼ်တင်း ၾၢႆႇၶေႃႈမုၼ်း သမတႃႇၼၼ်ႉၼင်ႇၵဝ်ႇ။ ယွၼ်ႉပိူဝ်ႈဝႃႈ ၵႂႃႇဢဝ် ၾၢႆႇ ISO ၼႆႉသေ ၸၼ်ႇသႂ်ႇ ဢမ်ႇၼၼ် ထုတ်ႇသႂ်ႇၼႂ်းၶႅပ်း ၵမ်းလဵဝ်ဢမ်ႇလႆႈၶႃႈ။  တႃႇဢဝ် ISO ​လိတ်ႈသႂ်ႇၶိုၼ်း ၼႂ်းၶႅပ်းၼႆႉ မၼ်းၵေႃႈ မီးလွၵ်းလၢႆး ဢၼ်မၵ်းမၼ်းၼင်ႇၵဝ်ႇ။ ပေႃးဢမ်ႇၼၼ် ISO ၼၼ်ႉၵေႃႈ တေၵႂႃႇပဵၼ် ၾၢႆႇဢၼ်မီးၼႂ်းၶႅပ်း ဢၼ်ဢမ်ႇၸၢင်ႈၸႂ်ႉလႆႈၼၼ်ႉၵူၺ်း။
 
-To install Ubuntu from a DVD, you first need to burn the downloaded ISO image onto a DVD. This requires:
+တႃႇတေလုၵ်ႉတီႈ DVD သေ ဢူၼ်းသႂ်ႇ Ubuntu ၼႆႉၼႆ ဢွၼ်တၢင်းသုတ်း ႁဝ်းၶႃႈလူဝ်ႇဢဝ် ၾၢႆႇ ISO ဢၼ်ႁဝ်းလူတ်ႇလူင်းဝႆႉၼၼ်ႉ ၶိုၼ်း​လိတ်ႈသႂ်ႇၼႂ်းၶႅပ်းၵွၼ်ႇ။ တႃႇတေႁဵၼ်းၼၼ်ႉၼၼ်ႉ တေလူဝ်ႇ :
 
-1. A working DVD burner (i.e. R/W drive)
-2. A blank DVD. (recent Ubuntu versions do not fit on to CD any more)
-Inexpensive "write once" DVD-Rs are a good choice for burning ISO images.
+1. ၸၢၵ်ႈသႂၢင်းၶႅပ်း DVD ဢၼ်ႁဵတ်းၵၢၼ် (တူဝ်ယၢင်ႇ R/W drive)
+2. ၶႅပ်း DVD ဢၼ်ပဝ်ႇ (ယွၼ်ႉပိူဝ်ႈဝႃႈ ဢူးပုၼ်းတု ဢၼ်ဢွၵ်ႇမႃး ဢၼ်ပႆႇပေႃးႁိုဝ်ပေႃးၼၢၼ်းၼႆႉ မၼ်းၵေႃႈ ဢမ်ႇၶဝ်ႈလႆႈတီႈၼႂ်းၶႅပ်း CD ယဝ်ႈ)။ ၸိူဝ်းပဵၼ် ၸၢၵ်ႈသႂၢင်းၶႅပ်း "write-once" DVD-Rs ဢၼ်ဢမ်ႇပေႃး ၵႃႈယႂ်ႇၶၼ်လူင်ၼၼ်ႉၵေႃႈ မၼ်း​ပဵၼ် ဢၼ်လိူၵ်ႈၶႅမ်ႉတွၼ်ႈတႃႇ လိတ်ႈႁၢင်ႈငဝ်း ISO သႂ်ႇၼႂ်းၶႅပ်းယူႇ။
 
 
-###Burning from Windows
+
+###လုၵ်ႉတီႈ Windows သေ သႂၢင်းသႂ်ႇၼႂ်းၶႅပ်း
 
 
 ####Windows 7/8/8.1
 
-1. Right-click on an ISO image and choose “Burn disc image”.
+1. ၼဵၵ်းၶလိၵ်ႉ ၽၢႆၶႂႃ Right-click ၵႃႈတီႈၼိူဝ် ႁၢင်ႈငဝ်း ISO image ၼၼ်ႉသေ လိူၵ်ႈပၼ် ဢၼ်ဝႃႈ “Burn disc image” ၼၼ်ႉၶႃႈလႄႈ။
 
 
 ![Window7_right.jpg](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=windows7_right.jpg)
 
-2. Select a disk burner (drive) and press "Burn".
+2. လိူၵ်ႈပၼ် ၸၢၵ်ႈဢၼ်​ႁဝ်းတေၸႂ်ႉ  disk burner (drive) တႃႇသႂၢင်းၼၼ်ႉသေ ၼဵၵ်းပၼ်တီႈ "Burn" ၼၼ်ႉလႄႈ။
 
 ![windows7_burn.jpg](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=windows7_burn.jpg)
 
-	If you check “Verify disc after burning”, it will verify that the ISO image has been burned correctly
+	ပေႃးၸဝ်ႈၵဝ်ႇ လိူၵ်ႈဝႆႉ “Verify disc after burning” ၼႆ ပေႃးဝႃႈ မၼ်းသႂၢင်းယဝ်ႉတူဝ်ႈ ၵႂႃႇယဝ်ႉၼႆ မၼ်းတေၶိုၼ်း ထတ်းသၢင်ႈတူၺ်းပၼ်ဝႃႈ ၸွင်ႇမၼ်းသႂၢင်းယဝ်ႉတူဝ်ႈ လီဢမ်ႇလီၼႆၶႃႈ။
 	
 	
-##Windows 2000 or newer: Infra Recorder
+##ၵႃႈတီႈ Windows 2000 ဢမ်ႇၼၼ် ဢၼ်ဢွၵ်ႇမႂ်ႇ : Infra Recorder
 
-1. Download and install Infra Recorder, a free and open source image burning program.
+1. လူတ်ႇလူင်း သေ ဢူၼ်းသႂ်ႇ Infra Recorder ဢၼ်ပဵၼ် free လႄႈ open source image burning program ၼၼ်ႉ။
 
-2. Insert a blank CD in the drive and select Do nothing or Cancel if an autorun dialog pops up.
-
-3. Open Infra Recorder and click the 'Write Image' button in the main screen.
-Alternatively you can select the 'Actions' menu, then 'Burn image'.
-![infrarecorder3.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=infrarecorder3.png)
-4. Select the Ubuntu CD image file you want to use, then click 'Open'.
-5. In the dialog, click 'OK'.
-
+2. ဢဝ်ၶႅပ်း CD ဢၼ်ပဝ်ႇ သႂ်ႇၵႃႈတီႈၼႂ်း ၶိူင်ႈၸၢၵ်ႈႁဝ်း။ သင်ၸိူဝ်ႉဝႃႈ autorun dialog ၶိုၼ်ႈမႃးၵေႃႈ ဢမ်ႇတၢပ်ႈလူဝ်ႇႁဵတ်းသင်၊ ဢမ်ႇၼၼ် ၼဵၵ်းပၼ် Cancel သေၵေႃႈ ထွၼ်ၵၢၼ်ၼၼ်ႉ ပႅတ်ႈလႆႈယူႇ။
+3. ပိုတ်ႇ Infra Recorder သေ ၼဵၵ်းၶလိၵ်ႉ click ဢၼ်ပဵၼ်ၼဵၼ် 'Write Image' ဢၼ်မီးတီႈ ၼႃႈၸေႃႈႁူဝ်ႁႅၵ်ႇ main screen ၼၼ်ႉလႄႈ။
+ထႅင်ႈလၢႆးၼိုင်ႈတႄႉ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈလိူၵ်ႈၵႂႃႇတီႈၼႂ်း သဵၼ်ႈၵၢၼ် 'Actions' menu သေ ၵႂႃႇလိူၵ်ႈပၼ် 'Burn image' ဢၼ်ဝႃႈၼၼ်ႉ။
+![infrarecorder3.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=infrarecorder3.png)  
+4. လိူၵ်ႈပၼ် ႁၢင်ႈငဝ်း ၾၢႆႇ Ubuntu CD image ဢၼ်ၸဝ်ႈၵဝ်ႇ ၶႂ်ႈၸႂ်ႉၼၼ်ႉသေၵေႃႈ သိုပ်ႇၼဵၵ်းၶလိၵ်ႉ 'Open'.
+5. ၵႃႈတီႈၼႂ်း dialog သိုပ်ႇၼဵၵ်းၶလိၵ်ႉ click ပၼ်တီႈ 'OK' ၼၼ်ႉ။
 
 
-##Windows XP or newer: ISO Recorder
 
-1. Download and install the appropriate version of ISO Recorder.
+##ၵႃႈတီႈ Windows XP ဢမ်ႇၼၼ် ဢၼ်ဢွၵ်ႇမႂ်ႇ လိူဝ်ၼၼ်ႉ: ISO Recorder
 
-2. Insert an unformatted CD into your burner. (Note: one can burn DVDs with this tool only from Vista.)
+1. လူတ်ႇလူင်းသေ ဢူၼ်းသႂ်ႇ မၢႆဢၵ်ႇ ပႃးသျိၼ်း ဢၼ်သၢင်ႇထုၵ်ႇၶွင် ISO Recorder ၼၼ်ႉလႄႈ။
 
-3. Open Windows Explorer, browse to your ISO file, right-click and choose "Next".
+2. ဢဝ်ၶႅပ်း CD ဢၼ်ပဝ်ႇ သႂ်ႇၶဝ်ႈပၼ်ၼႂ်း သၢၵ်ႈသႂၢင်း burner ၸဝ်ႈၵဝ်ႇလႄႈ။ (ၽၢင်ႉပၼ်: ဢၼ်တေၸၢင်ႈ သႂၢင်းပၼ်လႆႈ DVDs ၼၼ်ႉ မၼ်း​ၵူၺ်းတေပႃးမႃးၸွမ်းၶိူင်ႈ ဢၼ်ၸႂ်ႉၵိုၵ်း Vista ၼၼ်ႉၵူၺ်း)
+
+3. ပိုတ်ႇ Windows Explorer သေၵေႃႈ ၸီႉႁႃပၼ် ၾၢႆႇ ISO သေ ၼဵၵ်းၶလိၵ်ႉ ၽၢႆႇၶႂႃ right-click သေ လိူၵ်ႈပၼ် "Next" ဢၼ်ဝႃႈၼၼ်ႉၶႃႈလႄႈ။
 
 ![iso-recorder.gif](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=iso-recorder.gif)
 
-##Burning from Mac OS X
+##လုၵ်ႉၵႃႈတီႈ Mac OS X သေ သႂၢင်းသႂ်ႇၶႅပ်း
 
-**Note**: To burn most ISOs, you can use Apple's Disk Utility (Disk Copy in older versions).
+**ၽၢင်ႉပၼ်**: တႃႇသေသႂၢင်း ISOs သႂ်ႇၶႅပ်း ၵမ်ႉပႃႈၼမ်ၼႆႉ ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈၸႂ်ႉ  Disk Utility (Disk Copy in older versions) ၶွင် Apple ၵေႃႈလႆႈယူႇ။.
 
-1. Launch Disk Utility (Applications → Utilities → Disk Utility).
-2. Insert your blank CD/DVD.
-3. Drag and drop your .iso file to the left pane in Disk Utility. Now both the blank disc and the .iso should be listed.
-4. Select the .iso file, and click on the Burn button in the toolbar.ng) ![macosx_disk-utility.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=macosx_disk-utility.png)
-5. Ensure that the "Verify burned data" checkbox is ticked (you may need to click on the disclosure triangle to see the checkbox).6.  
-6. Click on Burn. The data will be burned and verified.
+1. ပိုတ်ႇပၼ် Disk Utility (ၵႂႃႇတီႈ Applications → Utilities → Disk Utility).
+2. ဢဝ်ၶႅပ်း CD/DVD ဢၼ်ပဝ်ႇ သႂ်ႇပၼ်လႄႈ။
+3. ၸၼ်လၢၵ်ႈဢဝ် ၾၢႆႇ .iso ၸဝ်ႈၵဝ်ႇၼၼ်ႉ သႂ်ႇပၼ်ၼႂ်းၶွင်ႉၽၢႆႇသၢႆႉ ၵႃႈတီႈၼႂ်း Disk Utility ၼၼ်ႉလႄႈ။ ပေႃးၼၼ် ဢၼ်ပဵၼ် ၶႅပ်းပဝ်ႇလႄႈတင်း ၾၢႆႇ .iso ၼၼ်ႉ တေၼႄဝႆႉၼင်ႇ သဵၼ်ႈမၢႆယူႇယဝ်ႉ။
+4. လိူၵ်ႈပၼ်ၾၢႆႇ .iso သေ ၼဵၵ်းၶလိၵ်ႉ click တီႈၼိူဝ်ၼဵၼ် Burn button ဢၼ်မီးတီႈၼိူဝ် ပႅၵ်ႈၶိူင်ႈ toolbar ၼၼ်ႉ။) ![macosx_disk-utility.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=macosx_disk-utility.png)
+5. ယႃႇပေလိုမ်း ၶၼ်ႇဝႆႉပၼ် တိူၵ်ႈၶၼ်ႇ "Verify burned data" ၼၼ်ႉ။ (တႃႇတေႁၼ် သၢမ်ၸဵင်ႇၼၼ်ႉၼႆ ၸဝ်ႈၵဝ်ႇ တေၸၢင်ႈလႆႈ ၼဵၵ်းၶၼ်ႇပၼ်တီႈ သၢမ်ၸဵင်ႇ ဢၼ်ဢမ်ႇပႆႇလႆႈၶၼ်ဝႆႉ။) 
+6. ၼဵၵ်းၶလိၵ်ႉ Click တီႈၼိူဝ် Burn ။ ပေႃးၼၼ် ၶေႃႈမုၼ်းၼၼ်ႉ တေသႂၢင်းသႂ်ႇပၼ်ၵႂႃႇသေ မၼ်းတေသိုပ်ႇႁဵတ်း ၵၢၼ်ၼႄႉၼွၼ်းၵႂႃႇယူႇ။
 ![](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=macosx_disk-utility_burn.png)
 
-##Burning from Ubuntu
+##လုၵ်ႉၵႃႈတီႈ Ubuntu သေ သႂၢင်းသႂ်ႇၼႂ်းၶႅပ်း
 
-	The procedure may differ slightly depending on which version of Ubuntu you are using
+	ၸၼ်ႉလွၵ်းလၢႆးႁဵတ်းၸိူဝ်းၼႆႉ ဢိင်ၼိူဝ် မၢႆဢွၵ်ႇပႃးသျိၼ်း Ubuntu ဢၼ်ၸဝ်ႈၵဝ်ႇ ၸႂ်ႉဝႆႉသေၵေႃႈ မၼ်းတေၸၢင်ႈ ပႅၵ်ႇပိူင်ႈၵၼ်ယူႇဢိတ်းဢွတ်း။
 
-1. Insert a blank CD into your burner. A "CD/DVD Creator" or "Choose Disc Type" window might pop up. Close this, as we will not be using it.![ubuntu_blankcd_dialog.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_blankcd_dialog.png)
+1. ဢဝ်ၶႅပ်း CD ဢၼ်ပဝ်ႇ သႂ်ႇၶဝ်ႈပၼ်တီႈၼႂ်း ၸၢၵ်ႈသႂၢင်း burner ၸဝ်ႈၵဝ်ႇလႄႈ။ ပေႃးၼၼ် ဢၼ်ပဵၼ် "CD/DVD Creator" ဢမ်ႇၼၼ် ဢၼ်ပဵၼ် ဝိၼ်းတူဝ်း "Choose Disc Type" ၼၼ်ႉ တေဢွၵ်ႇမႃးလႄႈ ဢိုတ်းပႅတ်ႈၸိူဝ်းၼၼ်ႉ။ ယွၼ်ႉပိူဝ်ႈဝႃႈ ႁဝ်းဢမ်ႇလူဝ်ႇၸႂ်ႉၶဝ်။ ![ubuntu_blankcd_dialog.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_blankcd_dialog.png)
  
-2. Browse to the downloaded ISO image in the file browser.
-3. Right click on the ISO image file and choose "Write to Disc". 
+2. ပိုတ်ႇၸီႉႁႃပၼ် ၾၢႆႇႁၢင်ႈငဝ်း ISO image ၵႃႈတီႈၼႂ်း တူဝ်ႇပိုတ်ႇႁႃ ၾၢႆႇ file browser ။
+3. ၼဵၵ်းၶလိၵ်ႉ ၾၢႆႇၶႂႃ Right click ၵႃႈတီႈၼိူဝ်ၾၢႆႇ ISO image သေ လိူၵ်ႈပၼ် "Write to Disc" ဢၼ်ဝႃႈၼၼ်ႉၶႃႈလႄႈ။
 ![ubuntu_rightclick_cd.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_rightclick_cd.png)
-4. Where it says "Select a disc to write to", select the blank CD. ![ubuntu_imageburn.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_imageburn.png)
-5. If you want, click "Properties" and select the burning speed. Lower speeds offer greater reliability, but will take longer to write. ![ubuntu_imageburn_properties.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_imageburn_properties.png)
-6. Start the burning process.
-7. The program should automatically check whether the image has been burned correctly.
-8. If the standard CD burning application does not work, install K3B and follow the instructions for Kubuntu below.
+4. ပေႃးၼၼ် မၼ်းတေဝႃႈမႃး "Select a disc to write to" ၼႆလႄႈ လိူၵ်ႈပၼ် ၶႅပ်း CD ဢၼ်ပဝ်ႇၶႃႈလႄႈ။
+![ubuntu_imageburn.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_imageburn.png)
+5. သင်ၸိူဝ်ႉဝႃႈ ၸဝ်ႈၵဝ်ႇ ၶႂ်းလႅၵ်ႈလၢႆး တၢင်းဝႆးတၢင်းထိူင်း ၵၢၼ်သႂၢင်းသႂ်ႇၼႆ ၼဵၵ်းၶလိၵ်ႉ click "Properties" သေၵေႃႈ လိူၵ်ႈပၼ်ၵႂႃႇလႆႈယူႇ။ ပေႃးဝႃႈ လိူၵ်ႈပၼ် ဢၼ်ထိူင်း Lower speeds ၼႆတႄႉ မၼ်းၵေႃႈတေလႆႈတမ်းၸႂ်ယူႇ ၵူၺ်းၵႃႈဝႃႈ ၵၢၼ်သႂၢင်းသႂ်ႇၼႂ်းၶႅပ်းၼၼ်ႉ မၼ်းတေႁိုဝ်ဢိတ်းၼိုင်ႈ။ 
+![ubuntu_imageburn_properties.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=ubuntu_imageburn_properties.png)
+6. တႄႇသႂၢင်းသႂ်ႇၼႂ်းၶႅပ်း။
+7. ပေႃးၼၼ် ၵၢၼ်သႂၢင်းသႂ်ႇႁဝ်းၼၼ်ႉ ၶႅမ်ႉလႅပ်ႈႁႃႈ ဢမ်ႇၶႅမ်ႉလႅပ်ႈႁႃၼႆ ဢၼ်ပဵၼ် ၽရူဝ်ၶႅမ်ႇ program တေထတ်းသၢင်ႈပၼ်ၵႂႃႇ ႁင်းမၼ်းယဝ်ႉ။
+8. သင်ၸိူဝ်ႉဝႃႈ ဢႅပ်ႉၽရီႇၶိူဝ်းသျိၼ်း သႂၢင်း CD ဢၼ်ၵိုၵ်းမႃးၼင်ႇ ပိူင်ၵႅဝ်ႈမၼ်းၼၼ်ႉ ဢမ်ႇႁဵတ်းၵၢၼ်လီၼႆ ဢူၼ်းသႂ်ႇ K3B သေၵေႃႈ ႁဵတ်းၸွမ်းၼင်ႇ ၶေႃႈၸီႉသင် လၢႆးႁဵတ်းၵႃႈတီႈၼႂ်း Kubuntu ၼင်ႇ ပႃႈတႂ်ႈၼႆႉၶႃႈလႄႈ။
 
 
-##Burning from Kubuntu
-	The procedure may differ slightly depending on which version of Kubuntu you are using
+##လုၵ်ႉၵႃႈတီႈ Kubuntu သေ သႂၢင်းသႂ်ႇၶႅပ်း
+	ၸၼ်ႉလွၵ်းလၢႆးႁဵတ်းၸိူဝ်းၼႆႉ ဢိင်ၼိူဝ် မၢႆဢွၵ်ႇပႃးသျိၼ်း Kubuntu ဢၼ်ၸဝ်ႈၵဝ်ႇ ၸႂ်ႉဝႆႉသေၵေႃႈ မၼ်းတေၸၢင်ႈ ပႅၵ်ႇပိူင်ႈၵၼ်ယူႇဢိတ်းဢွတ်း။
 
-1. Insert a blank CD into your burner. Open K3B from the KDE menu 
-2. On the near bottom of the application where it says "Welcome to K3b - The CD and DVD Kreator" click "more actions..." and then pick "Burn Image". ![kubuntu_1.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=kubuntu_1.png)
-3. You may want to enable the disk verification option to make sure the image is burned correctly, and lower the burning speed to have more reliability.
-4. Start the burning process.
-5. You can use the default settings.
+1. ဢဝ်ၶႅပ်း CD ဢၼ်ပဝ်ႇ သႂ်ႇၶဝ်ႈပၼ်တီႈၼႂ်း ၸၢၵ်ႈသႂၢင်း burner ၸဝ်ႈၵဝ်ႇလႄႈ။ ယဝ်ႉၵေႃႈ လုၵ်ႉၵႃႈတီႈ သဵၼ်ႈၵၢၼ် KDE menu သေ ပိုတ်ႇ K3B လႄႈ။
+2. ၵႃႈတီႈႁိမ်းၼၼ်ဢၼ်ဝႃႈ  "Welcome to K3b - The CD and DVD Kreator" ၵႂႃႇၼဵၵ်းပၼ်  "more actions..." သေၵေႃႈ လိူၵ်ႈပၼ် "Burn Image" ဢၼ်ဝႃႈၼၼ်ႉၶႃႈလႄႈ။ ![kubuntu_1.png](https://help.ubuntu.com/community/BurningIsoHowto?action=AttachFile&do=get&target=kubuntu_1.png)
 
-		See CdDvd/Burning if you would like to burn from the command line (terminal)
+3. ၸဝ်ႈၵဝ်ႇတေၸၢင်ႈၶႂ်ႈ ပိုတ်ႇၸႂ်ႉ ဢၼ်ပဵၼ် ၵၢၼ်လိူၵ်ႈသၢင်ႈ disk verification option တွၼ်ႈတႃႇႁႂ်ႈဢဝ် ႁၢင်ႈငဝ်းၸိူဝ်းၼၼ်ႉ သႂၢင်းသႂ်ႇၼႂ်းၶႅပ်း လီလီသေ မၼ်းတေၸႂ်ႉ ၵၢၼ်သႂၢင်းသႂ်ႇ လၢႆးထိူင်းလႄႈ မၼ်းၵေႃႈ တေပဵၼ် ဢၼ်လႆႈ တမ်းၸႂ်လိူဝ်လီ။
+4. တႄႇၵၢၼ်သႂၢင်းသႂ်ႇ။
+5. ၸဝ်ႈၵဝ်ႇ ၸၢင်ႈၸႂ်ႉ ၵၢၼ်တင်ႈ ဢၼ်ၵိုၵ်းပႃးမႃးၸွမ်းၼင်ႇ ပိူင်ၵႅဝ်ႈမၼ်းၼၼ်ႉ။
+
+		သင်ၸိူဝ်ႉဝႃႈ ၸဝ်ႈၵဝ်ႇ ၶႂ်ႈလုၵ်ႉတီႈ command line (terminal) သေ သႂၢင်းသႂ်ႇၶႅပ်းၼႆ တူၺ်းၵႃႈတီႈ CdDvd/Burning ၼၼ်ႉလႄႈ။
 		
-##If the burning fails
-If the CD writing fails, try writing at a slower speed. For better results, try the slowest burn speed reasonably possible. Most GUI tools have a "Properties" button to select speed but with Brasero those sorts of options appear after pressing the "burn" button first. This is the single most likely cause of problems but is much more widely known than MD5sum/SHA error-checking. Slower speeds ensure greater accuracy.
+##သင်ၸိူဝ်ႉဝႃႈ လွင်ႈသႂၢင်းသႂ်ႇ ဢမ်ႇၶႅမ်ႉလႅပ်ႈၼႆ
+
+ပေႃးဝႃႈ လွင်ႈသႂၢင်းသႂ်ႇ ၼႂ်းၶႅပ်း CD ၼႆႉ ဢမ်ႇၶႅမ်ႉလႅပ်ႈၼႆ ၶိုၼ်းမႄးၸႂ်ႉ လၢႆးထိူင်းသေ သႂၢင်းသႂ်ႇတူၺ်းလႄႈ။ တွၼ်ႈတႃႇတေႁႂ်ႈလႆႈ ၽွၼ်းလႆႈ ဢၼ်ၶႅမ်ႉၼႆႉ ဢၼ်ၸႂ်ႉၵၢၼ်လၢႆးထိူင်းသေ ဢူၼ်းသႂ်ႇၼႆႉ မၼ်းပဵၼ် လွင်ႈတၢင်းလီ ဢၼ်ပဵၼ်လႆႈသေပိူၼ်ႈၶႃႈယဝ်ႉ။ ၵႃႈတီႈ GUI Tool ၵမ်ႉပႃႈၼမ်ၼႆႉ မၼ်းတေပႃး ၼဵၼ် "Properties" တႃႇတေလိူၵ်ႈ/လႅၵ်ႈလၢႆႈ တၢင်းဝဵင်းတၢင်းထိူင်းမၼ်းယူႇ။ ၵူၺ်းၵႃႈဝႃႈ ပေႃးပဵၼ် ၼင်ႇ Brasero ၼၼ်ႉတႄႉ ၵၢၼ်လိူၵ်ႈ လွင်ႈထိူင်းလႄႈဝႆးၼၼ်ႉ မၼ်းလႆႈႁဵတ်းဝၢႆးလင် ပေႃးၼဵၵ်း "Burn" ယဝ်ႉၵွၼ်ႇဢေႃႈ။ လွင်ႈထိူင်းလွင်ႈဝႆးမၼ်းၼႆႉ မၼ်းၸၢင်ႈပဵၼ် ပၼ်ႁႃလႆႈသေပိူၼ်ႈလႄႈ ၸႂ်ႉလၢႆးထိူင်းသေ သႂၢင်းသႂ်ႇၼႆႉ မၼ်းၵေႃႈတေႁဵတ်းၵၢၼ်ပၼ်ႁဝ်းလႆႈ လီလီၼၼ်ႉယဝ်ႉ။
